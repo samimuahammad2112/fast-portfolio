@@ -13,7 +13,7 @@
 nav {
   display: flex;
   justify-content: space-between;
-  margin: 47px 200px;
+  padding: 55px 200px;
 }
 .color-m {
   color: #fd6e0a;
